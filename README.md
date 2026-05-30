@@ -1,2 +1,2 @@
-# hughBrooks
+# Hugh Brooks
 My personal repository
