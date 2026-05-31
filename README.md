@@ -1,6 +1,6 @@
 # Hugh Brooks
 My personal repository
-# Hi, im Hugh
+# Hi, I'm Hugh
 I am a A - level student studying maths, further maths, computer science and physics.
 
 ## Currenty Learning
